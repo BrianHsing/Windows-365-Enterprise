@@ -28,3 +28,4 @@ Windows 365 是微軟推出的軟體及服務，主要提供虛擬桌面基礎�
   - 管理：Microsoft Endpoint Manager 或 Windows AD<br>
   - 用途：雲端個人電腦或共用集區<br>
   - 價格預估：依據需求彈性變化<br>
+#
