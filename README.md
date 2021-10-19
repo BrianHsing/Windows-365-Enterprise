@@ -27,11 +27,11 @@ https://docs.microsoft.com/zh-tw/windows-365/enterprise/overview<br>
     - Azure AD + Azure AD Domain Services<br>
     - Azure AD + Windows AD<br>
   - 管理：Microsoft Endpoint Manager 或 Windows AD<br>
-  - 用途：雲端個人電腦或共用集區，可彈性整合地端與多個區域<br>
+  - 用途：雲端個人電腦或共用集區，可彈性整合地端與多個區域，並且最有效利用資源<br>
   - 價格預估：依據需求彈性變化<br>
 https://docs.microsoft.com/zh-tw/azure/virtual-desktop/overview<br>
 
-## Windows 365 企業版部署前置準備
+## Windows 365 企業版部署必要條件
 
 - 確認擁有 Azure 訂用帳戶，本篇使用 Visual Studio 訂用帳戶<br>
   - 擁有訂用帳戶擁有者權限、Azure AD 全域管理員<br>
@@ -39,7 +39,7 @@ https://docs.microsoft.com/zh-tw/azure/virtual-desktop/overview<br>
   - 需要建立 Azure 虛擬網路<br>
   - 需要建立 Azure VM 模擬 Windows AD<br>
   - 需要建立 Azure AD Hybrid Join<br>
-- 確認擁有相對應的 Windows 365 與 Microsoft 授權<br>
+- 確認擁有相對應的 Windows 365 與 Microsoft 授權 (需要包含 Azure AD P1、Microsoft Endpoint Manager)<br>
   - 本篇使用 Microsoft 365 F3 搭配 Windows 365 Enterprise 4 vCPU, 16 GB, 128 GB<br>
 
 ## Lab 實戰演練
