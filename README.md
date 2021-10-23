@@ -44,7 +44,7 @@ https://docs.microsoft.com/zh-tw/azure/virtual-desktop/overview<br>
 
 ## Lab 實戰演練
 
-- [Lab 1 - 模擬地端 Windows AD 與網路環境]()<br>
+- [Lab 1 - 模擬地端 Windows AD 與網路環境](https://github.com/BrianHsing/Windows365/blob/main/Lab1.md)<br>
 - [Lab 2 - 指派使用者或群組授權]()<br>
 - [Lab 3 - 建立虛擬網路連線至模擬的環境]()<br>
 - [Lab 4 - 建立自訂映像檔]()<br>

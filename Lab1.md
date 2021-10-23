@@ -2,7 +2,7 @@
 
 ## 使用 CloudShell 建立 Azure VM ADDS 與網路環境
 
- - 下載 [Single-ADDS.ps1]()<br>
+ - 下載 [Single-ADDS.ps1](https://github.com/BrianHsing/Windows365/blob/main/Single-ADDS.ps1)<br>
 	- 此命令會建立：<br>
     	- 資源群組 ADDS-rg，並且將資源都放置在東亞<br>
     	- 建立一台規格為 D4sv3 的虛擬機器 ADDS，私人 IP 指派靜態 172.16.1.4<br>
