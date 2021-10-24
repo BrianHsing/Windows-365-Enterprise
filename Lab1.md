@@ -101,7 +101,7 @@
  - 因為此範例已經實作 Azure AD 自訂網域設定，在 Windows ADDS 樹系名稱一致的狀況下，按下「Next」<br>
   ![GITHUB](https://github.com/BrianHsing/Azure-Virtual-Desktop/blob/master/Lab2/add10.png "add10")<br>
   > **Tips.如果您沒有實作自訂網域，請勾選 Continue without matching all UPN suffixes to verified domains 後繼續** <br>
- - 選擇「Sync selected domains and OUs」，只勾選「AVD」，按下「Next」<br>
+ - 選擇「Sync selected domains and OUs」，只勾選「W365」，按下「Next」<br>
   ![GITHUB](https://github.com/BrianHsing/Windows365/blob/main/images/adds4.png "adds4")<br>
  - 按下「Next」<br>
   ![GITHUB](https://github.com/BrianHsing/Azure-Virtual-Desktop/blob/master/Lab2/add12.png "add12")<br>
@@ -113,3 +113,20 @@
   ![GITHUB](https://github.com/BrianHsing/Azure-Virtual-Desktop/blob/master/Lab2/add15.png "add15")<br>
  - 完成<br>
   ![GITHUB](https://github.com/BrianHsing/Azure-Virtual-Desktop/blob/master/Lab2/add16.png "add16")<br>
+ - 點選桌面的捷徑「Azure AD Connect」<br>
+ - 點選下方「Configure」<br>
+  ![GITHUB](https://github.com/BrianHsing/Windows365/blob/main/images/adds5.png "adds5")<br>
+ - 選擇「Configure device options」後，點選「Next」<br>
+  ![GITHUB](https://github.com/BrianHsing/Windows365/blob/main/images/adds6.png "adds6")<br>
+ - 點選「Next」<br>
+  ![GITHUB](https://github.com/BrianHsing/Windows365/blob/main/images/adds7.png "adds7")<br>
+ - 輸入具有 Azure AD Global Admin 權限的帳號，輸入後點選「Next」<br>
+  ![GITHUB](https://github.com/BrianHsing/Windows365/blob/main/images/adds8.png "adds8")<br>
+ - 點選「Configure Hybrid Azure AD join」後，點選「Next」<br>
+  ![GITHUB](https://github.com/BrianHsing/Windows365/blob/main/images/adds9.png "adds9")<br>
+ - 點選「Windows 10 or later domain-joined devices」後，點選「Next」<br>
+  ![GITHUB](https://github.com/BrianHsing/Windows365/blob/main/images/adds10.png "adds10")<br>
+ - 「Authentication Service」 選擇 「Azure Active Directory」，並且點選右邊 「Add」，輸入具有 Enterprise Admin Credentials 的帳號後，點選「Next」<br>
+  ![GITHUB](https://github.com/BrianHsing/Windows365/blob/main/images/adds11.png "adds11")<br>
+ - 點選「Configure」<br>
+  ![GITHUB](https://github.com/BrianHsing/Windows365/blob/main/images/adds12.png "adds12")<br>
