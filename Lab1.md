@@ -41,14 +41,14 @@
 	 ![GITHUB](https://github.com/BrianHsing/Azure-Virtual-Desktop/blob/master/Lab2/adds9.png "adds9")<br>
 	- 使用 Bastion 連線 (您設定的NetBios\isadmin / isadmin@123)<br>
 	- 開啟 Active Directory Users and Computers <br>
-	- 建立組織單位 (organizational unit) AVD<br>
+	- 建立組織單位 (organizational unit) W365<br>
 	 ![GITHUB](https://github.com/BrianHsing/Azure-Virtual-Desktop/blob/master/Lab2/adds10.png "adds10")<br>
-	 ![GITHUB](https://github.com/BrianHsing/Azure-Virtual-Desktop/blob/master/Lab2/adds11.png "adds11")<br>
-	- 建立使用者物件 user1、user2、user3<br>
-	 ![GITHUB](https://github.com/BrianHsing/Azure-Virtual-Desktop/blob/master/Lab2/adds12.png "adds12")<br>
+	 ![GITHUB](https://github.com/BrianHsing/Windows365/blob/main/images/adds1.png "adds1")<br>
+	- 建立使用者物件 user1<br>
+	 ![GITHUB](https://github.com/BrianHsing/Windows365/blob/main/images/adds2.png "adds2")<br>
 	 ![GITHUB](https://github.com/BrianHsing/Azure-Virtual-Desktop/blob/master/Lab2/adds13.png "adds13")<br>
 	 ![GITHUB](https://github.com/BrianHsing/Azure-Virtual-Desktop/blob/master/Lab2/adds14.png "adds14")<br>
-	 ![GITHUB](https://github.com/BrianHsing/Azure-Virtual-Desktop/blob/master/Lab2/adds15.png "adds15")<br>
+	 ![GITHUB](https://github.com/BrianHsing/Windows365/blob/main/images/adds3.png "adds3")<br>
 
 ## 設定 Azure AD Connect & Azure AD Hybrid Join
 
