@@ -14,7 +14,7 @@
 - 使用 Single-ADDS.ps1 佈署 Windows ADDS Server <br> 
 	- 啟用 CloudShell<br>
     - 輸入`Connect-AzAccount` 登入<br>
-	- 上傳 Sigle-ADDS.ps1<br>
+	- 上傳 Single-ADDS.ps1<br>
 	  ![GITHUB](https://github.com/BrianHsing/Azure-Migrate/blob/master/hyper-v/image/cloudshell-uploadps1.PNG "cloudshell-uploadps1")<br>
 	  ![GITHUB](https://github.com/BrianHsing/Azure-Virtual-Desktop/blob/master/Lab2/upload-succsess.png "upload-succsess")<br>
 	- 輸入並執行 `./Single-ADDS.ps1` <br>
