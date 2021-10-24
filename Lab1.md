@@ -130,3 +130,5 @@
   ![GITHUB](https://github.com/BrianHsing/Windows365/blob/main/images/adds11.png "adds11")<br>
  - 點選「Configure」<br>
   ![GITHUB](https://github.com/BrianHsing/Windows365/blob/main/images/adds12.png "adds12")<br>
+ - 完成<br>
+  ![GITHUB](https://github.com/BrianHsing/Windows365/blob/main/images/adds13.png "adds13")<br>
