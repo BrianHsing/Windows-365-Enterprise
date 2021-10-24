@@ -102,7 +102,7 @@
   ![GITHUB](https://github.com/BrianHsing/Azure-Virtual-Desktop/blob/master/Lab2/add10.png "add10")<br>
   > **Tips.如果您沒有實作自訂網域，請勾選 Continue without matching all UPN suffixes to verified domains 後繼續** <br>
  - 選擇「Sync selected domains and OUs」，只勾選「AVD」，按下「Next」<br>
-  ![GITHUB](https://github.com/BrianHsing/Azure-Virtual-Desktop/blob/master/Lab2/add11.png "add11")<br>
+  ![GITHUB](https://github.com/BrianHsing/Windows365/blob/main/images/adds4.png "adds4")<br>
  - 按下「Next」<br>
   ![GITHUB](https://github.com/BrianHsing/Azure-Virtual-Desktop/blob/master/Lab2/add12.png "add12")<br>
  - 按下「Next」，如果您想針對名稱、群組等篩選，您可以在此設定<br>
