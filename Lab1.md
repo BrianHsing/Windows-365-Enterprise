@@ -132,3 +132,5 @@
   ![GITHUB](https://github.com/BrianHsing/Windows365/blob/main/images/adds12.png "adds12")<br>
  - 完成<br>
   ![GITHUB](https://github.com/BrianHsing/Windows365/blob/main/images/adds13.png "adds13")<br>
+
+前往[Lab 2 - 指派使用者或群組授權](https://github.com/BrianHsing/Windows365/blob/main/Lab2.md)<br>

@@ -45,15 +45,15 @@ https://docs.microsoft.com/zh-tw/azure/virtual-desktop/overview<br>
 ## Lab 實戰演練
 
 - [Lab 1 - 模擬地端 Windows AD 與網路環境](https://github.com/BrianHsing/Windows365/blob/main/Lab1.md)<br>
-- [Lab 2 - 指派使用者或群組授權]()<br>
-- [Lab 3 - 建立虛擬網路連線至模擬的環境]()<br>
-- [Lab 4 - 建立自訂映像檔]()<br>
-- [Lab 5 - 建立佈建原則]()<br>
-- [Lab 6 - Cloud PC 存取]()<br>
-- [Lab 7 - 安全性]()<br>
-- [Lab 8 - 應用程式指派]()<br>
-- [Lab 9 - 裝置管理]()<br>
-- [Lab 10 - 分析報告]()<br>
+- [Lab 2 - 指派使用者或群組授權](https://github.com/BrianHsing/Windows365/blob/main/Lab2.md)<br>
+- [Lab 3 - 建立虛擬網路連線至模擬的環境](https://github.com/BrianHsing/Windows365/blob/main/Lab3.md)<br>
+- [Lab 4 - 建立自訂映像檔](https://github.com/BrianHsing/Windows365/blob/main/Lab4.md)<br>
+- [Lab 5 - 建立佈建原則](https://github.com/BrianHsing/Windows365/blob/main/Lab5.md)<br>
+- [Lab 6 - Cloud PC 存取](https://github.com/BrianHsing/Windows365/blob/main/Lab6.md)<br>
+- [Lab 7 - 安全性](https://github.com/BrianHsing/Windows365/blob/main/Lab7.md)<br>
+- [Lab 8 - 應用程式指派](https://github.com/BrianHsing/Windows365/blob/main/Lab8.md)<br>
+- [Lab 9 - 裝置管理](https://github.com/BrianHsing/Windows365/blob/main/Lab9.md)<br>
+- [Lab 10 - 分析報告](https://github.com/BrianHsing/Windows365/blob/main/Lab10.md)<br>
 
 ## 參考資料
 - Windows 365 常見問題集<br>
