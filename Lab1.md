@@ -4,7 +4,7 @@
 
  - 下載 [Single-ADDS.ps1](https://github.com/BrianHsing/Windows365/blob/main/Single-ADDS.ps1)<br>
 	- 此命令會建立：<br>
-    	- 資源群組 ADDS-rg，並且將資源都放置在東亞<br>
+    	- 資源群組 ADDS，並且將資源都放置在東亞<br>
     	- 建立一台規格為 D4sv3 的虛擬機器 ADDS，私人 IP 指派靜態 172.16.1.4<br>
     	- 虛擬網路的網路位址為 172.16.0.0/16，分別建立三個子網路：<br>
         	- adds-subnet 172.16.0.0/16，用於放置 ADDS 或其他 Server Farm 的虛擬機器<br>
@@ -28,7 +28,7 @@
 	- 點選 Add a new forest，並輸入 Root domain name，此範例先設定 brianhsing.club，後續再做 AAD Connect 時，就不需要再另外設定 UPN 尾碼。<br>
 	> **Tips.請不要使用結尾為「.local」的網域，此網域無法在虛擬網路內路由** <br>
 	
-	 ![GITHUB](https://github.com/BrianHsing/Azure-Virtual-Desktop/blob/master/Lab2/adds4.png "adds4")<br>
+	  ![GITHUB](https://github.com/BrianHsing/Azure-Virtual-Desktop/blob/master/Lab2/adds4.png "adds4")<br>
 	- 自行輸入 Directory Services Restore Mode 密碼<br>
 	 ![GITHUB](https://github.com/BrianHsing/Azure-Virtual-Desktop/blob/master/Lab2/adds5.png "adds5")<br>
 	- DNS Option 直接選擇下一步<br>
@@ -133,4 +133,4 @@
  - 完成<br>
   ![GITHUB](https://github.com/BrianHsing/Windows365/blob/main/images/adds13.png "adds13")<br>
 
-前往[Lab 2 - 指派使用者或群組授權](https://github.com/BrianHsing/Windows365/blob/main/Lab2.md)<br>
+前往[Lab 2 - 指派授權與設定權限](https://github.com/BrianHsing/Windows365/blob/main/Lab2.md)<br>
