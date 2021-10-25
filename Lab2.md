@@ -24,4 +24,5 @@
     ![GITHUB](https://github.com/BrianHsing/Windows365/blob/main/images/rbac3.png "rbac3")<br>
   - 完成後可以在資源群組的存取控制中，看到網路參與者權限與繼承讀者的資訊<br>
     ![GITHUB](https://github.com/BrianHsing/Windows365/blob/main/images/rbac6.png "rbac6")<br>
-    
+
+前往[Lab 3 - 建立虛擬網路連線至模擬的環境](https://github.com/BrianHsing/Windows365/blob/main/Lab3.md)<br>

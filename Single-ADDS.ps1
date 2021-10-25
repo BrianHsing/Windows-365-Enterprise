@@ -1,6 +1,6 @@
 ﻿#建立資源群組ADDS
 $resourceGroup = "ADDS"
-$location = "East Asia"
+$location = "Southeast Asia"
 $vmName = "ADDS"
 New-AzResourceGroup -Name $resourceGroup -Location $location
 
