@@ -4,7 +4,7 @@
 
  - 下載 [Single-ADDS.ps1](https://github.com/BrianHsing/Windows365/blob/main/Single-ADDS.ps1)<br>
 	- 此命令會建立：<br>
-    	- 資源群組 ADDS，並且將資源都放置在東亞<br>
+    	- 資源群組 ADDS，並且將資源都放置在東南亞<br>
     	- 建立一台規格為 D4sv3 的虛擬機器 ADDS，私人 IP 指派靜態 172.16.1.4<br>
     	- 虛擬網路的網路位址為 172.16.0.0/16，分別建立三個子網路：<br>
         	- adds-subnet 172.16.0.0/16，用於放置 ADDS 或其他 Server Farm 的虛擬機器<br>

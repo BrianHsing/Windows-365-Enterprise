@@ -6,4 +6,14 @@
   ![GITHUB](https://github.com/BrianHsing/Windows365/blob/main/images/deploy2.png "deploy2")<br>
 - 點選頁籤「內部部署網路連線」，並且點選「建立」<br>
   ![GITHUB](https://github.com/BrianHsing/Windows365/blob/main/images/deploy3.png "deploy3")<br>
-- 
+- 在頁籤「網路詳細資料」中，您需要填幾個資訊：<br>
+  - 名稱：您所建立這個內部部署網路連接設定的唯一名稱<br>
+  - 訂用帳戶<br>
+  - 資源群組：本範例使用稍早建立的 ADDS <br>
+  - 虛擬網路：本範例使用稍早建立的 ADDS-vnet<br>
+  - 子網路：本範例使用稍早建立的 w365-subnet<br>
+![GITHUB](https://github.com/BrianHsing/Windows365/blob/main/images/opnc1.png "opnc1")<br>
+- 在頁籤「AD 網域」中，您需要填幾個資訊：<br>
+  - AD DNS 網域名稱：您需要填入您 AD DNS 名稱，本範例使用 brianhsing.club<br>
+  - 組織單位不一定需要輸入，如果未輸入他會統一放置在 Computer OU 中<br>
+  - 
