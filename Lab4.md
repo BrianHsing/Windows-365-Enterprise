@@ -1,5 +1,7 @@
 # Lab 4 - 建立自訂映像檔
 
+此步驟是要示範如何讓使用者
+
 ## 建立虛擬機器
 - 在搜尋列搜尋虛擬機器，並且選擇虛擬機器 <br>
   ![GITHUB](https://github.com/BrianHsing/Windows365/blob/main/images/vm1.png "vm1")<br>
@@ -11,3 +13,4 @@
 
 ## 安裝 Windows 365 Language Installer
 
+- 

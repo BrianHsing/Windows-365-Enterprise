@@ -12,8 +12,15 @@
   - 資源群組：本範例使用稍早建立的 ADDS <br>
   - 虛擬網路：本範例使用稍早建立的 ADDS-vnet<br>
   - 子網路：本範例使用稍早建立的 w365-subnet<br>
-![GITHUB](https://github.com/BrianHsing/Windows365/blob/main/images/opnc1.png "opnc1")<br>
+  - 完成後點選「下一個」<br>
+  ![GITHUB](https://github.com/BrianHsing/Windows365/blob/main/images/opnc1.png "opnc1")<br>
 - 在頁籤「AD 網域」中，您需要填幾個資訊：<br>
   - AD DNS 網域名稱：您需要填入您 AD DNS 名稱，本範例使用 brianhsing.club<br>
-  - 組織單位不一定需要輸入，如果未輸入他會統一放置在 Computer OU 中<br>
-  - 
+  - 組織單位：本範例使用 OU=W365,DC=brianhsing,DC=club，如果您是建立其他 OU 放置，您必須確保此 OU 有被勾選與 Azure AD 同步，如果沒有勾選，會造成失敗<br>
+  - AD 使用者名稱 UPN：您可以使用一個已加入網域的使用者帳號即可<br>
+  - AD 網域密碼：輸入使用者帳號的密碼<br>
+  - 確認 AD 網域密碼：再次輸入<br>
+  - 完成後點選「下一個」<br>
+  ![GITHUB](https://github.com/BrianHsing/Windows365/blob/main/images/opnc2.png "opnc2")<br>
+ - 完成後請點選「檢閱+建立」<br>
+  ![GITHUB](https://github.com/BrianHsing/Windows365/blob/main/images/opnc3.png "opnc3")<br>
