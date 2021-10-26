@@ -33,8 +33,31 @@
 
 - 畫面移轉到 Microsoft Endpoint Manager 系統管理中心，點選「裝置」，「Windows 365」，在功能頁籤中選擇「裝置映像」，並點選「新增」。在右方窗格填上名稱、映像版本、選取剛建立的自訂映像檔後，點選「新增」<br>
   ![GITHUB](https://github.com/BrianHsing/Windows365/blob/main/images/image1.png "image1")<br>
+- 完成後即可看到顯示在列表中<br>
+  ![GITHUB](https://github.com/BrianHsing/Windows365/blob/main/images/capture5.png "capture5")<br>
 
   # 建立 Group Policy
 
   - 將畫面一致您稍早建立的 ADDS VM 內的畫面，開啟 Group Policy Management<br>
-  - 
+  ![GITHUB](https://github.com/BrianHsing/Windows365/blob/main/images/gpo1.png "gpo1")<br>
+  - 在 W365 OU 點選右鍵，點選 「Create a GPO ...」<br>
+  ![GITHUB](https://github.com/BrianHsing/Windows365/blob/main/images/gpo2.png "gpo2")<br>
+  - 輸入 New GPO 名稱<br>
+  ![GITHUB](https://github.com/BrianHsing/Windows365/blob/main/images/gpo3.png "gpo3")<br>
+  - 在剛剛建立的 GPO 上點選右鍵，選擇 Edit...<br>
+  ![GITHUB](https://github.com/BrianHsing/Windows365/blob/main/images/gpo4.png "gpo4")<br>
+  - 點選 User Configuration，選擇 Preferences，選擇 Windows Settings 後，右鍵點選 Registry，並且選擇 New，Registry Item<br>
+  ![GITHUB](https://github.com/BrianHsing/Windows365/blob/main/images/gpo5.png "gpo5")<br>
+  - 看到 New Registry Properties 畫面後，請參考以下資訊更改：<br>
+    - Action：Replace<br>
+    - Hive：HKEY_CURRENT_USER<br>
+    - Key Path：Control Panel\Desktop<br>
+    - Value name：PreferredUILanguages<br>
+    - Value type：REG_SZ<br>
+    - Value data：zh-TW<br>
+    ![GITHUB](https://github.com/BrianHsing/Windows365/blob/main/images/gpo6.png "gpo6")<br>
+  - 完成後再點選頁籤 「Common」，請勾選以下選項<br>
+    -  logged-on user's security context (user policy option)<br>
+    -  Apply once and do not reapply：此項目可確保使用者可自行更換語言<br>
+    -  Item-level targeting<br>
+    ![GITHUB](https://github.com/BrianHsing/Windows365/blob/main/images/gpo7.png "gpo7")<br>
