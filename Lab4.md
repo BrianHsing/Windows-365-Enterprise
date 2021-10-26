@@ -23,7 +23,7 @@
 ## 建立自訂映像檔
 
 - 完成您所需要的語言安裝後，使用同樣的 Powershell，輸入`C:\Windows\System32\Sysprep\sysprep.exe /oobe /generalize /shutdown`，之後會執行一般化並關機<br>
-  ![GITHUB](https://github.com/BrianHsing/Windows365/blob/main/images/ps6.png "ps7")<br>
+  ![GITHUB](https://github.com/BrianHsing/Windows365/blob/main/images/ps7.png "ps7")<br>
 - 確認虛擬機器狀態為已停止，點選上方功能列「擷取」<br>
   ![GITHUB](https://github.com/BrianHsing/Windows365/blob/main/images/capture1.png "capture1")<br>
 - 在「共用映像至共用映像庫」的選項中，選擇否，只擷取受控映像，輸入名稱後，點選「檢閱+建立」，下個頁面再點「選立」<br>
