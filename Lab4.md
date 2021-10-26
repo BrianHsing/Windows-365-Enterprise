@@ -1,6 +1,6 @@
 # Lab 4 - 建立自訂映像檔
 
-此步驟是要示範如何讓使用者
+此 Lab 是要示範如何讓使用者進入 Cloud PC 時，就能夠直接使用熟悉的語言介面<br>
 
 ## 建立虛擬機器
 - 在搜尋列搜尋虛擬機器，並且選擇虛擬機器 <br>
@@ -11,6 +11,30 @@
   ![GITHUB](https://github.com/BrianHsing/Windows365/blob/main/images/vm3.png "vm3")<br>
 > **建立虛擬機器的詳細過程可以參閱官方文件教學說明 https://docs.microsoft.com/zh-tw/azure/virtual-machines/windows/quick-create-portal <br>
 
-## 安裝 Windows 365 Language Installer
+## 安裝 Windows 365 Language Installer (only Windows 10)
 
-- 
+- 開啟您剛建立的虛擬機器後，開啟 PowerShell，並輸入`Install-Script -Name Windows365LanguagesInstaller`，並且所有的要求輸入，均輸入 Y<br>
+  ![GITHUB](https://github.com/BrianHsing/Windows365/blob/main/images/ps4.png "ps4")<br>
+- 在 PowerShell 輸入 `Windows365LanguagesInstaller.ps1`<br>
+  ![GITHUB](https://github.com/BrianHsing/Windows365/blob/main/images/ps5.png "ps5")<br>
+- 輸入您要安裝語言的對應號碼，每安裝一次語言都需要重新執行 `Windows365LanguagesInstaller.ps1`，本篇選擇安裝 Chinese (Traditional)，輸入後就會進行自動安裝，安裝會需要一些時間，請耐心等待一下<br>
+  ![GITHUB](https://github.com/BrianHsing/Windows365/blob/main/images/ps6.png "ps6")<br>
+
+## 建立自訂映像檔
+
+- 完成您所需要的語言安裝後，使用同樣的 Powershell，輸入`C:\Windows\System32\Sysprep\sysprep.exe /oobe /generalize /shutdown`，之後會執行一般化並關機<br>
+  ![GITHUB](https://github.com/BrianHsing/Windows365/blob/main/images/ps6.png "ps7")<br>
+- 確認虛擬機器狀態為已停止，點選上方功能列「擷取」<br>
+  ![GITHUB](https://github.com/BrianHsing/Windows365/blob/main/images/capture1.png "capture1")<br>
+- 在「共用映像至共用映像庫」的選項中，選擇否，只擷取受控映像，輸入名稱後，點選「檢閱+建立」，下個頁面再點「選立」<br>
+  ![GITHUB](https://github.com/BrianHsing/Windows365/blob/main/images/capture4.png "capture3")<br>
+
+## 新增 Windows 365 裝置映像
+
+- 畫面移轉到 Microsoft Endpoint Manager 系統管理中心，點選「裝置」，「Windows 365」，在功能頁籤中選擇「裝置映像」，並點選「新增」。在右方窗格填上名稱、映像版本、選取剛建立的自訂映像檔後，點選「新增」<br>
+  ![GITHUB](https://github.com/BrianHsing/Windows365/blob/main/images/image1.png "image1")<br>
+
+  # 建立 Group Policy
+
+  - 將畫面一致您稍早建立的 ADDS VM 內的畫面，開啟 Group Policy Management<br>
+  - 

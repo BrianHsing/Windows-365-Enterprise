@@ -1,5 +1,7 @@
 # Lab 3 - 建立虛擬網路連線至模擬的環境
 
+## 建立內部部署網路連線
+
 - 使用具有全域管理員的帳號登入 「portal.office.com」網址，並且進入 「Microsoft 365 admin center」，在左邊功能分類系統管理員中心選擇「端點管理員」<br>
   ![GITHUB](https://github.com/BrianHsing/Windows365/blob/main/images/deploy1.png "deploy1")<br>
 - 進入後，選擇「裝置」，並且選擇 「Windows 365」<br>
@@ -24,3 +26,11 @@
   ![GITHUB](https://github.com/BrianHsing/Windows365/blob/main/images/opnc2.png "opnc2")<br>
  - 完成後請點選「檢閱+建立」<br>
   ![GITHUB](https://github.com/BrianHsing/Windows365/blob/main/images/opnc3.png "opnc3")<br>
+ - 完成後可以看到您建立的內部部署網路連線，可以點選狀態，檢查並更改一些資訊<br>
+  ![GITHUB](https://github.com/BrianHsing/Windows365/blob/main/images/opnc7.png "opnc4")<br>
+ - 透過 Watchdog Service，您可以很容易地觀察到目前您的環境健康狀況<br>
+  ![GITHUB](https://github.com/BrianHsing/Windows365/blob/main/images/opnc7.png "opnc5")<br>
+ - 在屬性的頁籤您也可隨時變更您的 Azure 相關資源與 AD 網域的資訊<br>
+  ![GITHUB](https://github.com/BrianHsing/Windows365/blob/main/images/opnc6.png "opnc6")<br>
+
+前往[Lab 4 - 建立自訂映像檔](https://github.com/BrianHsing/Windows365/blob/main/Lab4.md)<br>
