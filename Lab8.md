@@ -39,3 +39,6 @@
 
 ## 驗證是否有成功派送應用程式
 
+![GITHUB](https://github.com/BrianHsing/Windows365/blob/main/images/msix14.png "msix14")<br>
+
+前往 [Lab 9 - 分析報告](https://github.com/BrianHsing/Windows365/blob/main/Lab9.md)<br>
