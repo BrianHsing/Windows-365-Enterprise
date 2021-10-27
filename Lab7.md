@@ -44,7 +44,7 @@
   ![GITHUB](https://github.com/BrianHsing/Windows365/blob/main/images/ca17.png "ca17")<br>
 - 這個時候會需要驗證，行動裝置會出現核准登入的提示<br>
   ![GITHUB](https://github.com/BrianHsing/Windows365/blob/main/images/ca18.png "ca18")<br>
-  ![GITHUB](https://github.com/BrianHsing/Windows365/blob/main/images/ca20.png "ca20-1")<br>
+  ![GITHUB](https://github.com/BrianHsing/Windows365/blob/main/images/ca20-1.png "ca20-1")<br>
 - 最後一步驟是要求您填寫行動裝置電話，預防您遺失行動應用程式的存取權，這一步完成就結束整個步驟<br>
   ![GITHUB](https://github.com/BrianHsing/Windows365/blob/main/images/ca19.png "ca19")<br>
 前往[Lab 8 - 應用程式指派](https://github.com/BrianHsing/Windows365/blob/main/Lab8.md)<br>
