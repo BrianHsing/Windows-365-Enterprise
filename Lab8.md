@@ -41,4 +41,4 @@
 
 ![GITHUB](https://github.com/BrianHsing/Windows365/blob/main/images/msix14.png "msix14")<br>
 
-恭喜您完成全部的 Lab，您可以選擇回 [Windows 365](https://github.com/BrianHsing/Windows365)頁面<br>
+恭喜您完成全部的 Lab，您可以選擇回 [Windows 365](https://github.com/BrianHsing/Windows365) 頁面<br>
