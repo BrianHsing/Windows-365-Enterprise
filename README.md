@@ -52,7 +52,6 @@ https://docs.microsoft.com/zh-tw/azure/virtual-desktop/overview<br>
 - [Lab 6 - Cloud PC 存取](https://github.com/BrianHsing/Windows365/blob/main/Lab6.md)<br>
 - [Lab 7 - 設定條件式存取並開啟多重要素驗證](https://github.com/BrianHsing/Windows365/blob/main/Lab7.md)<br>
 - [Lab 8 - MSIX 應用程式指派](https://github.com/BrianHsing/Windows365/blob/main/Lab8.md)<br>
-- [Lab 9 - 分析報告](https://github.com/BrianHsing/Windows365/blob/main/Lab9.md)<br>
 
 ## 參考資料
 - Windows 365 常見問題集<br>
