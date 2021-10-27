@@ -19,7 +19,7 @@
 - 在頁籤「指派」中，包含的群組選項，新增群組 w365_group，完成後選擇「下一頁」<br>
   ![GITHUB](https://github.com/BrianHsing/Windows365/blob/main/images/msix5.png "msix5")<br>
 -  在頁籤「適用性規則」中，直接選擇「下一頁」<br>
-  ![GITHUB](https://github.com/BrianHsing/Windows365/blob/main/images/msix6.png "msix6-1")<br>
+  ![GITHUB](https://github.com/BrianHsing/Windows365/blob/main/images/msix6-1.png "msix6-1")<br>
 -  在頁籤「檢閱+建立」中，檢視設定的資訊無誤後，點選建立<br>
   ![GITHUB](https://github.com/BrianHsing/Windows365/blob/main/images/msix7.png "msix7")<br>
 ## 新增 Windows 應用程式
