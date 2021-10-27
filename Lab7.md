@@ -31,20 +31,20 @@
 - 這時會跳出畫面，請遵循上述步驟進行安裝行動應用程式與驗證<br>
   ![GITHUB](https://github.com/BrianHsing/Windows365/blob/main/images/ca11.png "ca11")<br>
 - 行動裝置畫面，安裝之後開啟應用程式，選擇「新增帳戶」<br>
-  ![GITHUB](https://github.com/BrianHsing/Windows365/blob/main/images/ca12.png "ca12")<br>
+  ![GITHUB](https://github.com/BrianHsing/Windows365/blob/main/images/ca12-1.png "ca12")<br>
 - 選擇「工作或學校帳戶」<br>
-  ![GITHUB](https://github.com/BrianHsing/Windows365/blob/main/images/ca13.png "ca13")<br>
+  ![GITHUB](https://github.com/BrianHsing/Windows365/blob/main/images/ca13-1.png "ca13")<br>
 - 點選「掃描 QR 代碼」<br>
-  ![GITHUB](https://github.com/BrianHsing/Windows365/blob/main/images/ca14.png "ca14")<br>
+  ![GITHUB](https://github.com/BrianHsing/Windows365/blob/main/images/ca14-1.png "ca14")<br>
 - 掃描後會出現相關資訊，點選完成<br>
-  ![GITHUB](https://github.com/BrianHsing/Windows365/blob/main/images/ca15.png "ca15")<br>
+  ![GITHUB](https://github.com/BrianHsing/Windows365/blob/main/images/ca15-1.png "ca15")<br>
 - 完成後即可看到有出現使用者的帳戶<br>
-  ![GITHUB](https://github.com/BrianHsing/Windows365/blob/main/images/ca16.png "ca16")<br>
+  ![GITHUB](https://github.com/BrianHsing/Windows365/blob/main/images/ca16-1.png "ca16")<br>
 - 回到網頁的畫面，可以看到下一步已經可以點選，點選「下一步」<br>
   ![GITHUB](https://github.com/BrianHsing/Windows365/blob/main/images/ca17.png "ca17")<br>
 - 這個時候會需要驗證，行動裝置會出現核准登入的提示<br>
   ![GITHUB](https://github.com/BrianHsing/Windows365/blob/main/images/ca18.png "ca18")<br>
-  ![GITHUB](https://github.com/BrianHsing/Windows365/blob/main/images/ca20.png "ca20")<br>
+  ![GITHUB](https://github.com/BrianHsing/Windows365/blob/main/images/ca20.png "ca20-1")<br>
 - 最後一步驟是要求您填寫行動裝置電話，預防您遺失行動應用程式的存取權，這一步完成就結束整個步驟<br>
   ![GITHUB](https://github.com/BrianHsing/Windows365/blob/main/images/ca19.png "ca19")<br>
 前往[Lab 8 - 應用程式指派](https://github.com/BrianHsing/Windows365/blob/main/Lab8.md)<br>
