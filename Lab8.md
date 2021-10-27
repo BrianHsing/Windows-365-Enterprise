@@ -2,7 +2,7 @@
 
 ## 前置作業
 - 在 Microsoft Endpoint Manager 系統管理中心中，主要支援幾種檔案格式，能讓您派送至 Cloud PC 中，本篇主要是示範如何透過 MSIX 格式來派送您的應用程式，在這之前您必須先準備兩件事情：<br>
-  - 建立自我簽署憑證：本篇提供 [msix.cer] (https://github.com/BrianHsing/Windows365/blob/main/msix.cer) 讓您能夠進行練習<br>
+  - 建立自我簽署憑證：本篇提供 [msix.cer](https://github.com/BrianHsing/Windows365/blob/main/msix.cer) 讓您能夠進行練習<br>
   - 重新封裝您的應用程式：本篇提供 [notepad++](https://github.com/BrianHsing/Windows365/blob/main/notepadpp_1.0.0.0_x64__s1mw6y3htna62.msix) 讓您能夠進行練習<br>
 您可前往 [了解 MSIX 應用程式連接與 MSIX 映像檔準備](https://github.com/BrianHsing/Azure-Virtual-Desktop/blob/master/MSIX-package.md) 了解如何準備這些事情<br>
 
