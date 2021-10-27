@@ -50,7 +50,7 @@ https://docs.microsoft.com/zh-tw/azure/virtual-desktop/overview<br>
 - [Lab 4 - 建立自訂映像檔](https://github.com/BrianHsing/Windows365/blob/main/Lab4.md)<br>
 - [Lab 5 - 建立佈建原則](https://github.com/BrianHsing/Windows365/blob/main/Lab5.md)<br>
 - [Lab 6 - Cloud PC 存取](https://github.com/BrianHsing/Windows365/blob/main/Lab6.md)<br>
-- [Lab 7 - 安全性設定](https://github.com/BrianHsing/Windows365/blob/main/Lab7.md)<br>
+- [Lab 7 - 設定條件式存取並開啟多重要素驗證](https://github.com/BrianHsing/Windows365/blob/main/Lab7.md)<br>
 - [Lab 8 - MSIX 應用程式指派](https://github.com/BrianHsing/Windows365/blob/main/Lab8.md)<br>
 - [Lab 9 - 分析報告](https://github.com/BrianHsing/Windows365/blob/main/Lab9.md)<br>
 
