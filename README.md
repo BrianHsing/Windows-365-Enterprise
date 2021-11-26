@@ -35,7 +35,7 @@ https://docs.microsoft.com/zh-tw/azure/virtual-desktop/overview<br>
 
 - 確認擁有 Azure 訂用帳戶，本篇使用 Visual Studio 訂用帳戶<br>
   - 擁有訂用帳戶擁有者權限、Azure AD 全域管理員<br>
-  - 指派 Windows 365 權限，非別為訂用帳戶讀者、資源群組網路參與者、虛擬網路網路參與者<br>
+  - 指派 Windows 365 權限，分別為訂用帳戶讀者、資源群組網路參與者、虛擬網路網路參與者<br>
   - 需要建立 Azure 虛擬網路<br>
   - 需要建立 Azure VM 模擬 Windows AD<br>
   - 需要建立 Azure AD Hybrid Join<br>

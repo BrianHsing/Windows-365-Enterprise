@@ -23,7 +23,7 @@
   ![GITHUB](https://github.com/BrianHsing/Windows365/blob/main/images/login.png "login")<br>
 - 點選 open in browser，開啟 Cloud PC，這邊會需要登入 user1<br>
 - 登入後，會提醒使用者需要更多資訊，才能保護帳戶的安全，點選「下一步」<br>
-  ![GITHUB](https://github.com/BrianHsing/Windows365/blob/main/images/ca6.png "ca8")<br>
+  ![GITHUB](https://github.com/BrianHsing/Windows365/blob/main/images/ca8.png "ca8")<br>
 - 跳轉畫面後，使用者就會需要遵循步驟進行相關驗證，您可以選擇使用簡訊或行動應用程式<br>
   ![GITHUB](https://github.com/BrianHsing/Windows365/blob/main/images/ca9.png "ca9")<br>
   ![GITHUB](https://github.com/BrianHsing/Windows365/blob/main/images/ca10.png "ca10")<br>
