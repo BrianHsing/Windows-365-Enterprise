@@ -15,7 +15,7 @@
 	- 啟用 CloudShell<br>
     - 輸入`Connect-AzAccount` 登入<br>
 	- 上傳 Single-ADDS.ps1<br>
-	![GITHUB](https://github.com/BrianHsing/Azure-Migrate/blob/master/hyper-v/image/cloudshell-uploadps1.PNG "cloudshell-uploadps1")<br>	  
+	![GITHUB](https://github.com/BrianHsing/Azure-Migrate-HyperV/blob/master/image/cloudshell-uploadps1.PNG "cloudshell-uploadps1")<br>	  
 	- 輸入並執行 `./Single-ADDS.ps1` <br>
     ![GITHUB](https://github.com/BrianHsing/Windows365/blob/main/images/upload.png "upload-succsess")<br>
 - 設定虛擬網路DNS 伺服器 ADDS-vnet 指向 172.16.1.4<br>
